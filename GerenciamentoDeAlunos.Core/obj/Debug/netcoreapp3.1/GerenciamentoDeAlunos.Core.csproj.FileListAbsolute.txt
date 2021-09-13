@@ -1,0 +1,10 @@
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.deps.json
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.AssemblyInfoInputs.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.AssemblyInfo.cs
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Core\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.csproj.AssemblyReference.cache

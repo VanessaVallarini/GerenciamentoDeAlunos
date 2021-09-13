@@ -1,0 +1,13 @@
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.deps.json
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.AssemblyInfoInputs.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.AssemblyInfo.cs
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.csproj.AssemblyReference.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Application\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Application.csproj.CopyComplete

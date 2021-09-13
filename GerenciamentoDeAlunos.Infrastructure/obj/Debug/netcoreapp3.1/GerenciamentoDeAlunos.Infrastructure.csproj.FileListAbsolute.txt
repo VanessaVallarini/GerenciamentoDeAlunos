@@ -1,0 +1,16 @@
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.deps.json
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.runtimeconfig.json
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.runtimeconfig.dev.json
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\bin\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Core.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.AssemblyInfo.cs
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.csproj.CopyComplete
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.dll
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.pdb
+C:\Users\vanessa.a.ichikawa\source\repos\GerenciamentoDeAlunos2\GerenciamentoDeAlunos.Infrastructure\obj\Debug\netcoreapp3.1\GerenciamentoDeAlunos.Infrastructure.genruntimeconfig.cache

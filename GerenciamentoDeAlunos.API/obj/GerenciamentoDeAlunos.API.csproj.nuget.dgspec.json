@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.API\\GerenciamentoDeAlunos.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.API\\GerenciamentoDeAlunos.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.API\\GerenciamentoDeAlunos.API.csproj",
+        "projectName": "GerenciamentoDeAlunos.API",
+        "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.API\\GerenciamentoDeAlunos.API.csproj",
+        "packagesPath": "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanessa.a.ichikawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Application\\GerenciamentoDeAlunos.Application.csproj": {
+                "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Application\\GerenciamentoDeAlunos.Application.csproj"
+              },
+              "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Infrastructure\\GerenciamentoDeAlunos.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Infrastructure\\GerenciamentoDeAlunos.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Application\\GerenciamentoDeAlunos.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Application\\GerenciamentoDeAlunos.Application.csproj",
+        "projectName": "GerenciamentoDeAlunos.Application",
+        "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Application\\GerenciamentoDeAlunos.Application.csproj",
+        "packagesPath": "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanessa.a.ichikawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\GerenciamentoDeAlunos.Core.csproj": {
+                "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\GerenciamentoDeAlunos.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\GerenciamentoDeAlunos.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\GerenciamentoDeAlunos.Core.csproj",
+        "projectName": "GerenciamentoDeAlunos.Core",
+        "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\GerenciamentoDeAlunos.Core.csproj",
+        "packagesPath": "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanessa.a.ichikawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Infrastructure\\GerenciamentoDeAlunos.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Infrastructure\\GerenciamentoDeAlunos.Infrastructure.csproj",
+        "projectName": "GerenciamentoDeAlunos.Infrastructure",
+        "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Infrastructure\\GerenciamentoDeAlunos.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanessa.a.ichikawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1": {},
+          "C:\\Users\\vanessa.a.ichikawa\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\GerenciamentoDeAlunos.Core.csproj": {
+                "projectPath": "C:\\Users\\vanessa.a.ichikawa\\source\\repos\\GerenciamentoDeAlunos2\\GerenciamentoDeAlunos.Core\\GerenciamentoDeAlunos.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
